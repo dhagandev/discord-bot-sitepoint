@@ -18,8 +18,8 @@ Isme can be summoned with "Isme, " or "-isme".
 
 ## Examples
 
-> Isme, I need your help
-> -isme ask me about my character
-> Isme, prompt
-> -isme ask my character a question
-> Isme, askcharacter: John Doe
+- `Isme, I need your help`
+- `-isme ask me about my character`
+- `Isme, prompt`
+- `-isme ask my character a question`
+- `Isme, askcharacter: John Doe`
